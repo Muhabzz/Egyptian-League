@@ -1,0 +1,32 @@
+16,Amer Amer,Goalkeeper,37,0.1  
+1,Ahmed El Arabi,Goalkeeper,32,0.05  
+1,Ahmed El Nafarawy,Goalkeeper,26,0.05  
+5,Amr El Gazar,Centre-Back,25,0.15  
+72,Ahmed Castelo,Centre-Back,25,0.1  
+6,Ahmed Hakam,Centre-Back,26,0.1  
+35,Abdo Semida,Centre-Back,21,0.075  
+21,Abdelrahman Body,Centre-Back,26,0.05  
+43,Mohamed Nabih,Centre-Back,18,0.05  
+12,Hamidu Abdul Fatawu,Left-Back,25,0.125  
+2,Yehia Zakaria,Left-Back,22,0.1  
+33,Bassam Walid,Right-Back,26,0.15  
+24,Osama El Nagar,Right-Back,24,0.075  
+38,Abdelrahim Amoory,Right-Back,26,0.05  
+80,Abdoul Aziz Coulibaly,Right-Back,18,0.075  
+25,Youssef Hassan,Defensive Midfield,26,0.1  
+33,Mohamed Ashraf,Defensive Midfield,23,0.05  
+7,Mory Touré,Defensive Midfield,21,0.075  
+88,Mohamed Gaber,Central Midfield,34,0.15  
+10,Mohamed Osama,Central Midfield,25,0.05  
+14,Ahmed Magdy,Attacking Midfield,34,0.05  
+9,Khaled El Akhmimi,Attacking Midfield,28,0.05  
+19,Abdo Yehia,Left Winger,25,0.15  
+28,Mohamed Essam,Left Winger,27,0.075  
+91,Hossam Greisha,Left Winger,27,0.075  
+13,Mahmoud Sotohi,Left Winger,21,0.025  
+15,Ibrahim Hassan,Right Winger,33,0.3  
+47,Mohamed Ashraf,Right Winger,26,0.175  
+20,Abdelnaser Mohamed,Right Winger,28,0.05  
+11,Mohamed Ali Ben Hammouda,Centre-Forward,26,0.6  
+23,Mohamed Hamdi,Centre-Forward,32,0.2  
+78,Hazem Abosena,Centre-Forward,23,0.05  

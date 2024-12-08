@@ -1,0 +1,33 @@
+1,Ahmed Masoud,Goalkeeper,32,0.15  
+32,Hassan Mahmoud Shahin,Goalkeeper,31,0.075  
+16,Amr Shaaban,Goalkeeper,31,0.075  
+72,Badreldin Walid,Goalkeeper,18,0.075  
+23,Mohamed Alaa,Goalkeeper,25,0.075  
+5,Ahmed Hossam,Centre-Back,23,0.25  
+4,Ahmed Hamed Shousha,Centre-Back,31,0.175  
+13,Ahmed Abdelrasoul,Centre-Back,28,0.15  
+3,Ahmed El Aash,Centre-Back,26,0.075  
+33,Ahmed Reda,Left-Back,21,0.175  
+18,Alieu Jatta,Left-Back,29,0.025  
+2,Abdelgawad Taalab,Right-Back,22,0.075  
+6,Essam Sobhy,Right-Back,35,0.05  
+25,Kahraba,Right-Back,25,0.03
+12,Mahmoud Hassouna,Defensive Midfield,27,0.075  
+14,Nour El Sayed,Defensive Midfield,40,0.075  
+81,Obinna Okoronkwo,Defensive Midfield,20,0.075  
+8,Reda Salah,Central Midfield,26,0.2  
+10,Mohamed Mahmoud,Central Midfield,26,0.15  
+19,Belal El Sayed,Central Midfield,23,0.075  
+30,Mohamed Emad,Central Midfield,23,0.05  
+34,Hassan Samir,Attacking Midfield,20,0.075  
+17,Hassan Yassin,Attacking Midfield,28,0.075  
+28,Favour Akem,Left Winger,20,0.3  
+11,Seif Shika,Left Winger,23,0.075  
+70,Shamsu Kabeer,Left Winger,33,0.075  
+35,Mazen Yasser,Right Winger,21,0.175  
+27,Arnaud Randrianantenaina,Right Winger,23,0.15  
+99,Ali El Zahdi,Right Winger,28,0.075  
+15,Oksha,Right Winger,25,0.05  
+29,Tolulope Samuel Ojo,Right Winger,21,0.05  
+22,Taiwo Oripelaye,Right Winger,20,0.075  
+9,Hossam Ghanem,Centre-Forward,25,0.15  

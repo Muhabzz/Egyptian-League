@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EPL Final", "EPL Final\EPL Final.vcxproj", "{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}.Debug|x64.ActiveCfg = Debug|x64
+		{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}.Debug|x64.Build.0 = Debug|x64
+		{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}.Debug|x86.Build.0 = Debug|Win32
+		{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}.Release|x64.ActiveCfg = Release|x64
+		{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}.Release|x64.Build.0 = Release|x64
+		{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}.Release|x86.ActiveCfg = Release|Win32
+		{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F33C8A-205B-4CEA-AE1C-74958E6A0DFC}
+	EndGlobalSection
+EndGlobal

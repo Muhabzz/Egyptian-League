@@ -1,0 +1,40 @@
+16,Mohamed Sobhi,Goalkeeper,25,0.60
+1,Mohamed Awad,Goalkeeper,32,0.50
+32,Mahmoud El Shenawy,Goalkeeper,20,0.10
+45,Omar Abdelaziz,Goalkeeper,16,0.00
+24,Hamza Mathlouthi,Centre-Back,32,0.70
+28,Mahmoud El Wensh,Centre-Back,29,0.50
+5,Hossam Abdelmaguid,Centre-Back,23,0.35
+6,Mostafa El Zenary,Centre-Back,25,0.15
+49,Ahmed Magdy,Centre-Back,19,0.08
+43,Ahmed Refai,Centre-Back,21,0.05
+37,Djeferson Costa,Centre-Back,19,0.08
+13,Ahmed Fatouh,Left-Back,26,0.60
+3,Mahmoud Bentayg,Left-Back,25,0.40
+44,Hassan Aboul-Maati,Left-Back,19,0.08
+29,Mohamed Abdelshafi,Left-Back,39,0.08
+4,Omar Gaber,Right-Back,32,0.25
+33,Ahmed Mahmoud,Right-Back,21,0.15
+8,Nabil Dunga,Defensive Midfield,28,1.20
+15,Ziad Kamal,Defensive Midfield,23,0.25
+17,Mohamed Shehata,Central Midfield,23,0.40
+70,Ahmed Hamdi,Central Midfield,26,0.25
+19,Abdallah El Said,Central Midfield,39,0.25
+39,Mohamed El Sayed,Central Midfield,18,0.10
+18,Seif Farouk Gaafar,Central Midfield,24,0.05
+22,Nasser Maher,Attacking Midfield,27,0.40
+74,Abdallah Mohamed,Attacking Midfield,21,0.05
+7,Mostafa Shalaby,Left Winger,30,0.60
+47,Mohamed Hamdi,Left Winger,21,0.60
+25,Zizo,Right Winger,28,4.00
+21,Konrad Michalak,Right Winger,27,1.00
+26,Mohab Yasser,Right Winger,27,0.15
+27,Mohamed Atef,Right Winger,22,0.15
+10,Shikabala,Right Winger,38,0.05
+31,Ahmed Esho,Right Winger,21,0.05
+48,Hazem Osama,Right Winger,21,0.05
+11,Omar Faraj,Centre-Forward,22,1.20
+30,Seifeddine Jaziri,Centre-Forward,31,0.70
+20,Hossam Ashraf,Centre-Forward,23,0.60
+9,Nasser Mansy,Centre-Forward,27,0.25
+35,Sidy Ndiaye,Centre-Forward,19,0.08

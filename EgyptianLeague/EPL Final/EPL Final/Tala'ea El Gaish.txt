@@ -1,0 +1,31 @@
+1,Mohamed Shaaban,Goalkeeper,30,0.3
+18,Omar Radwan,Goalkeeper,27,0.075
+4,Emad El-Sayed,Goalkeeper,38,0.05
+51,Mohamed Camacho,Centre-Back,31,0.35
+30,Ahmed Alaa,Centre-Back,30,0.3
+6,Moaz El Henawy,Centre-Back,34,0.2
+3,Khaled Sotohi,Centre-Back,35,0.125
+25,Amro Tarek,Centre-Back,32,0.075
+31,Mohamed Diab,Centre-Back,30,0.075
+21,Moamen Mahmoud,Centre-Back,21,0.07
+28,Ahmed Meteb,Left-Back,28,0.5
+8,Hamed El Gabry,Left-Back,25,0.075
+15,Ahmed Zola,Right-Back,31,0.4
+33,Hassan Magdy,Right-Back,34,0.075
+13,Khaled Awad,Right-Back,21,0.05
+5,Himid Mao Mkami,Defensive Midfield,32,0.3
+12,Farid Shawky,Defensive Midfield,34,0.15
+20,Islam Mohareb,Central Midfield,32,0.2
+14,Ali Hamdi,Central Midfield,25,0.15
+22,Emad Fathi,Central Midfield,31,0.125
+11,Mostafa El Khawaga,Attacking Midfield,31,0.15
+23,Kareem Tarek,Left Winger,32,0.2
+7,Moussa Diawara,Left Winger,30,0.15
+19,Riga,Left Winger,30,0.05
+17,Ahmed Samir,Right Winger,30,0.5
+10,Youssry Wahid,Right Winger,26,0.3
+26,Ahmed El Sheikh,Right Winger,34,0.25
+2,Mohamed Hany,Right Winger,22,0.2
+9,Godwin Chika,Centre-Forward,27,0.25
+35,Basem Morsy,Centre-Forward,32,0.1
+21,Fares Hatem,Centre-Forward,21,0.05

@@ -1,0 +1,31 @@
+1, Ahmed Adel, Goalkeeper, 37, 0.1
+16, Kamal El Sayed, Goalkeeper, 25, 0.1
+31, Abdallah Gamal, Goalkeeper, 21, 0.025
+5, Mohamed Ammar, Centre-Back, 25, 0.2
+2, Mohamed Nasr, Centre-Back, 24, 0.15
+24, Abdallah Mohamed, Centre-Back, 22, 0.025
+12, Abdelkarim Mostafa, Left-Back, 21, 0.2
+3, Hatem Sukar, Left-Back, 23, 0.075
+40, Mohamed Ehab, Left-Back, 21, 0.1
+4, Emad Hamdi, Defensive Midfield, 31, 0.3
+6, Mohamed Hassan, Defensive Midfield, 31, 0.25
+14, Hesham Mohamed, Defensive Midfield, 34, 0.075
+8, Mohamed Bayoumi, Central Midfield, 24, 0.175
+20, Abdallah El Said, Central Midfield, 23, 0.05
+60, Mahmoud Otaka, Central Midfield, 21, 0.1
+37, Ibrahim Abdelaal, Central Midfield, 19, 0.2
+30, Eric Traoré, Attacking Midfield, 28, 0.2
+19, Abdelrahman El Dah, Attacking Midfield, 25, 0.05
+15, Nader Farag, Left Winger, 23, 0.15
+22, Ali El Malawany, Left Winger, 25, 0.05
+23, Mohamed Wagdi, Left Winger, 22, 0.025
+32, Mohamed Khatary, Left Winger, 20, 0.03
+9, Marwan Hamdi, Right Winger, 23, 0.15
+10, Mohamed Abdelsamia, Right Winger, 24, 0.15
+7, Ahmed El Sheikh, Right Winger, 32, 0.125
+99, Mohamed El Behiry, Right Winger, 22, 0.025
+88, Amr El Said, Right Winger, 21, 0.025
+43, Omar El Kot, Right Winger, 19, 0.03
+33, Khaled Al-Nabris, Centre-Forward, 21, 0.05
+35, Hassan Saber, Centre-Forward, 19, 0.05
+11, Mohamed Zidan, Centre-Forward, 23, 0.025

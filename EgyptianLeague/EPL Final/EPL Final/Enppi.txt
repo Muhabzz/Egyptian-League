@@ -1,0 +1,28 @@
+1,Abdelrahman Samir,Goalkeeper,24,0.25
+16,Reda El Sayed,Goalkeeper,32,0.15
+29,Ramadan Mostafa,Goalkeeper,25,0.1
+4,Ahamed Kalosha,Centre-Back,25,0.6
+5,Ahamed Sabeha,Centre-Back,25,0.25
+6,Mohamed Hamed,Centre-Back,30,0.25
+31,Mohamed Samir,Centre-Back,23,0.1
+8,Hesham Adel,Centre-Back,26,0.05
+19,Fathi El Sayed,Left-Back,22,0.05
+23,Abdallah Adel,Left-Back,23,0.025
+22,Ahamed El Agouz,Defensive Midfield,31,0.25
+3,Ahamed Youssef,Defensive Midfield,25,0.15
+17,Mody Naser,Central Midfield,23,0.25
+30,Mostafa Dowidar,Left Midfield,25,0.3
+30,Mostafa Shakshak,Left Midfield,24,0.15
+38,Suleiman Kirki,Attacking Midfield,21,0.025
+41,Sheko Mohareb,Attacking Midfield,24,0.05
+27,Salah Zayed,Left Winger,23,0.1
+10,Ahamed Nader Hawash,Right Winger,21,0.25
+7,Rafik Kabou,Right Winger,32,0.2
+11,Mohamed Sherif,Right Winger,25,0.1
+21,Ahamed Gamal,Right Winger,22,0.075
+50,Ali Aboutaleb,Right Winger,27,0.05
+40,Ziad Tarek,Right Winger,24,0.05
+9,Oufo,Centre-Forward,28,0.5
+20,Youssef Labib,Centre-Forward,23,0.15
+25,Mohamed El Nahas,Centre-Forward,22,0.075
+62,Mannan Mudasiru,Centre-Forward,28,0.085

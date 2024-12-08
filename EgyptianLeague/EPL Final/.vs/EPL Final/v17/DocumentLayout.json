@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Computer Scince\\Projects\\Egyptian League\\EPL Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}|EPL Final\\EPL Final.vcxproj|D:\\Computer Scince\\Projects\\Egyptian League\\EPL Final\\EPL Final\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FF4BBCD-A5A5-42FD-A732-FA7270E7218D}|EPL Final\\EPL Final.vcxproj|solutionrelative:EPL Final\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Computer Scince\\Projects\\Egyptian League\\EPL Final\\EPL Final\\Source.cpp",
+              "RelativeDocumentMoniker": "EPL Final\\Source.cpp",
+              "ToolTip": "D:\\Computer Scince\\Projects\\Egyptian League\\EPL Final\\EPL Final\\Source.cpp",
+              "RelativeToolTip": "EPL Final\\Source.cpp",
+              "ViewState": "AQIAAMMCAAAAAAAAAAAmwOkCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T11:49:32.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

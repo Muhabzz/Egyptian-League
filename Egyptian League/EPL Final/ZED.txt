@@ -1,0 +1,32 @@
+1,Ali Lotfi,Goalkeeper,35,0.25
+16,Amr Hossam,Goalkeeper,33,0.2
+29,Mohamed Mazzika,Goalkeeper,30,0.05
+12,Mostafa El Aash,Centre-Back,24,0.6
+24,Mohamed Ismail,Centre-Back,25,0.25
+4,Mohamed Samir,Centre-Back,37,0.1
+5,Ahmed Tarek,Centre-Back,23,0.1
+6,Islam Abdellah,Centre-Back,23,0.1
+21,Mohamed Ashraf,Left-Back,23,0.25
+28,Ahmed Zaki,Left-Back,25,0.125
+8,Ahmed Sayed,Right-Back,22,0.2
+15,Sameh Ibrahim,Right-Back,26,0.15
+30,Ali Gamal,Right-Back,25,0.15
+26,Peter Zilu Mutumosi,Defensive Midfield,26,0.2
+55,Mahmoud Bolbol,Defensive Midfield,26,0.15
+20,Hamdy Alaa,Defensive Midfield,24,0.15
+18,Ahmed El-Saghiri,Central Midfield,26,0.35
+37,Maata Magassa,Central Midfield,21,0.15
+22,Amar Hamdy,Central Midfield,25,0.125
+44,Maged Hany,Central Midfield,21,0.1
+35,Muhammed Sawaneh,Central Midfield,20,0.075
+19,Abdelrahman Emad,Attacking Midfield,25,0.075
+10,Mostafa Ziko,Left Winger,27,0.8
+19,Abdelrahman El Banouby,Left Winger,24,0.4
+25,Abel Yalew,Left Winger,28,0.175
+14,Ahmed Adel,Left Winger,27,0.125
+7,Mostafa Saad,Right Winger,23,0.3
+32,Rafaat Khalil,Right Winger,20,0.25
+9,Shady Hussein,Centre-Forward,31,0.5
+13,Dilson,Centre-Forward,27,0.15
+27,Rasheed Ahmed,Centre-Forward,24,0.125
+72,Muhsini Malima,Centre-Forward,23,0.025

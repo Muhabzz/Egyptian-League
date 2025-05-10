@@ -1,0 +1,29 @@
+1,Ahamed El Shenawy,Goalkeeper,33,0.7
+28,Ahamed Mayhoub,Goalkeeper,28,0.1
+22,Sherif Ekramy,Goalkeeper,41,0.05
+16,Youssef Nader,Goalkeeper,23,0.025
+3,Mahmoud Marei,Centre-Back,26,0.8
+6,Osama Galal,Centre-Back,27,0.6
+4,Ahamed Samy,Centre-Back,32,0.5
+5,Ali Gabr,Centre-Back,35,0.4
+21,Mohamed Hamdi,Left-Back,29,1.2
+29,Karim Hafez,Left-Back,28,0.5
+15,Mohamed Chibi,Right-Back,31,1.2
+24,Tarek Alaa,Right-Back,22,0.25
+12,Ahamed Tawfik,Right-Back,33,0.15
+8,Ibrahim Blati Touré,Defensive Midfield,30,1.5
+14,Mohanad Lasheen,Defensive Midfield,28,1.3
+13,Mahmoud Dunga,Defensive Midfield,31,0.175
+70,Ahamed Fawzi,Defensive Midfield,22,0.075
+18,Walid El Karti,Central Midfield,30,1.5
+17,Mohamed Reda,Central Midfield,24,0.8
+23,Ahamed Atef,Central Midfield,21,0.3
+7,Youssef Obama,Attacking Midfield,28,0.8
+40,Samuel Amusan,Attacking Midfield,19,0.025
+30,Ibrahim Adel,Left Winger,23,2.5
+9,Yassin Mansour,Left Winger,21,0.2
+11,Ahmed Hegazy,Right Winger,30,2.5
+32,Khaled Farouk,Right Winger,22,0.5
+10,Ahamed Hegazy,Centre-Forward,33,1.8
+25,Jonathan,Central Midfield,26,0.3
+28,Mohamed Salah,Centre-Forward,32,30
